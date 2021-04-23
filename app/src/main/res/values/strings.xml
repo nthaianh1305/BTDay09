@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BTDialog</string>
+
+    //main act
+    <string name="etTitle">Title</string>
+    <string name="etDes">Description</string>
+    <string name="tvRemind">Remind me at</string>
+    <string name="tvTime">14:20</string>
+    <string name="tvDate">04/03/2020</string>
+    <string name="tvType">Type:</string>
+    <string name="tvTags">Tags:</string>
+    <string name="tvTags_choose">Family Android Friend</string>
+    <string name="tvWeek">Weeks:</string>
+    <string name="tvWeek_choose">Sun Tues Thu</string>
+    <string name="btnTune">Tune</string>
+
+    // login act
+    <string name="edtUser_login">User name</string>
+    <string name="edtPassword_login">Password</string>
+    <string name="btnLogin_login">Login</string>
+    <string name="btnDangNhap_login">DangNhap</string>
+
+    // menu save
+    <string name="cancel_mnSave">Cancel</string>
+
+    // menu tune
+    <string name="file_tune">From file</string>
+    <string name="defaults_tune">From defaults</string>
+</resources>
